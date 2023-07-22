@@ -116,5 +116,8 @@ li h1{
     width: fit-content;
     font-size: 20px;
     margin: auto;
-
+}
+.contact h6{
+    width: fit-content;
+    margin: auto;
 }
